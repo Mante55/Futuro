@@ -1,0 +1,8 @@
+{
+  "wake_word": "sua_frase_de_ativacao",
+  "author": "Seu Nome",
+  "language": "pt",
+  "version": 1,
+  "model": "meu_wake_word_model.tflite",
+  "minimum_esphome_version": "2024.6.0"
+}
