@@ -1,6 +1,6 @@
 {
-  "wake_word": "sua_frase_de_ativacao",
-  "author": "Seu Nome",
+  "wake_word": "hey_messias",
+  "author": "JM",
   "language": "pt",
   "version": 1,
   "model": "meu_wake_word_model.tflite",
