@@ -2,13 +2,14 @@
   "type": "micro",
   "wake_word": "hey_messias",
   "author": "JM",
-  "website": "https://github.com/Mante55/Futuro",
-  "model": "https://raw.githubusercontent.com/Mante55/Futuro/main/meu_wake_word_model.tflite",
-  "version": 1,
+  "model": "meu_wake_word_model.tflite",
+  "trained_languages": ["pt"],
+  "version": 2,
   "micro": {
     "probability_cutoff": 0.5,
-    "sliding_window_size": 3,
     "feature_step_size": 10,
-    "tensor_arena_size": 22860
+    "sliding_window_size": 5,
+    "tensor_arena_size": 30000,
+    "minimum_esphome_version": "2024.6.0"
   }
 }
