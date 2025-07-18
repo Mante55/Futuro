@@ -1,7 +1,7 @@
 {
   "type": "micro",
   "wake_word": "hey_messias",
-  "author": "João Augusto",
+  "author": "JM",
   "website": "https://github.com/Mante55/Futuro",
   "model": "meu_wake_word_model.tflite",
   "version": 1,
